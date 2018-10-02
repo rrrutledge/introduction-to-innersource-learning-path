@@ -25,7 +25,7 @@ For critical feature requests that are not prioritized for immediate work, the c
       
   1. **Escalate**. The consuming team may not take "no" for an answer and, instead, advocate to someone in the producers' management hierarchy to influence (or force) the producing team to do the work.
   This option sounds attractive for the consuming team because they get the requested feature without doing the work to implement or maintain it.
-  It is still a drag on the team, though, because it necessarily diverts some of their attention and work to the non-productive task of escalation.
+  It is still a drag on the team, though, because it necessarily diverts some of their attention and work to the non-engineering task of escalation.
   Additionally, this option does not scale as there are so many times that a consumer can escalate feature requests before damaging their credibility.
   Escalate is similarly disruptive (even more so) for the producing team, who are taken out of their normal workflow and prioritization methods to deal with the escalated feature request.
 
