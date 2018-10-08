@@ -1,11 +1,11 @@
 This file holds the text to accompany the [InnerSource Principles](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321610) video.
 
-# InnerSource Principles
+# Inner Source Principles
 
 Every company, team, project, and individual is different.
-Because of that fact, the exact way that the concept of InnerSource works will vary from one situation to another.
-At its core, however, are two principles that form the bedrock of any successful instance of InnerSource.
-These principles have inspiration in successful open source projects and must be respected and present in order for InnerSource to achieve the benefits described earlier.
+Because of that fact, the exact way that the concept of inner source works will vary from one situation to another.
+At its core, however, are two principles that form the bedrock of any successful instance of inner source.
+These principles have inspiration in successful open source projects and must be respected and present in order for inner source to achieve the benefits described earlier.
 
 The principles are:
 * **Prioritized Mentorship**
@@ -15,7 +15,7 @@ Let's take a look at each of these principles in more detail.
 
 ## Prioritized Mentorship
 
-_Mentorship_ from host team to guest team via trusted committers is a key aspect of InnerSource.
+_Mentorship_ from host team to guest team via trusted committers is a key aspect of inner source.
 Contributors on guest teams are upleveled so that they understand enough about the host team system to change it successfully.
 In the process of doing so, they come to better understand the host team system as a general consumer.
 They can use it more effectively and help other consumers to do so as well.
@@ -28,7 +28,7 @@ Open source readily recognizes this point and considers it as an honor to achiev
 
 ## Voluntary Code Contribution
 
-The first word _Voluntary_ means that engagement in InnerSource from both the guest and host teams occurs of their own free will.
+The first word _Voluntary_ means that engagement in inner source from both the guest and host teams occurs of their own free will.
 The guest team voluntarily donates code to the host team and the host team voluntarily accepts it.
 This opt-in nature means that each team needs to be certain that their involvement adds value to the others' objectives.
 Never is a host team required to accept a contribution that isn't in ultimate alignment with their overall mission.
